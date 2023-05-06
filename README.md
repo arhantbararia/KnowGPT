@@ -56,3 +56,7 @@ Content-Type: application/json
 ```
 
 In this example, the user has entered a question about the weather, and the Flask server has made an API call to the OpenAI GPT-3 API to generate a response. The generated response is then returned to the client in JSON format, with a key called "response" containing the text of the generated response.
+
+
+## Errors 
+Errors are logged in log.txt file under the project root directory.
