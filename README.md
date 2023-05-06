@@ -27,7 +27,7 @@ To set up and run the web application, follow these steps:
 5. Open a web browser and navigate to [http://localhost:5000](http://localhost:5000/) to access the web application.
 
 ## Test
-Test cases are discussed in pdf under the [test_cases](https://github.com/arhantbararia/KnowGPT/tree/main/test_cases) directory.
+Test cases can be viewed ( as images) under the [test_cases](https://github.com/arhantbararia/KnowGPT/tree/main/test_cases) directory.
 
 ## Examples
 
