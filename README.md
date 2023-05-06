@@ -11,20 +11,23 @@ The purpose of this web application is to provide a chatbot-like interface that 
 To set up and run the web application, follow these steps:
 
 1. Clone the application code from the Github repository: [https://github.com/arhantbararia/Know_Wallet_Assignment-ARH](https://github.com/arhantbararia/Know_Wallet_Assignment-ARH)
-    
+
     ```python
     git clone https://github.com/arhantbararia/Know_Wallet_Assignment-ARH.git
     ```
-    
+2. Recommend installing and running a virtual environment before installing the requirements. Check out [Running Virtual Environments](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
 2. Install the required Python packages using pip: `pip install -r requirements.txt`
-3. Set up your OpenAI API credentials by creating a new API key in the OpenAI dashboard and saving it to a file called `openai_api_key.txt` in the project root directory.
+3. Set up your OpenAI API credentials by creating a new API key in the [OpenAI dashboard](https://platform.openai.com/account/api-keys) and saving it to a file called `secret_key.txt` in the project root directory.
 4. Start the Flask web server by running the following command in the project root directory.
-    
+
     ```python
     python app.py
     ```
-    
+
 5. Open a web browser and navigate to [http://localhost:5000](http://localhost:5000/) to access the web application.
+
+## Test
+Test cases are discussed in pdf under the test_cases directory.
 
 ## Examples
 

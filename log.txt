@@ -1,0 +1,2 @@
+2023-05-07 - 00:18:40: ERROR! : Incorrect API key provided: sk-wiOgv***************************************sa3V. You can find your API key at https://platform.openai.com/account/api-keys.
+2023-05-07 - 00:18:40: ERROR! : Incorrect API key provided: sk-wiOgv***************************************sa3V. You can find your API key at https://platform.openai.com/account/api-keys.
