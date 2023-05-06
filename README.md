@@ -10,10 +10,10 @@ The purpose of this web application is to provide a chatbot-like interface that 
 
 To set up and run the web application, follow these steps:
 
-1. Clone the application code from the Github repository: [https://github.com/arhantbararia/Know_Wallet_Assignment-ARH](https://github.com/arhantbararia/Know_Wallet_Assignment-ARH)
+1. Clone the application code from the Github repository: [https://github.com/arhantbararia/KnowGPT](https://github.com/arhantbararia/KnowGPT)
 
     ```python
-    git clone https://github.com/arhantbararia/Know_Wallet_Assignment-ARH.git
+    git clone https://github.com/arhantbararia/KnowGPT.git
     ```
 2. Recommend installing and running a virtual environment before installing the requirements. Check out [Running Virtual Environments](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
 2. Install the required Python packages using pip: `pip install -r requirements.txt`
