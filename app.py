@@ -35,7 +35,7 @@ def chat():
             stop = None,
             temperature = 0.5
         )
-        response = "response.choices[0].text.strip()"
+        response = response.choices[0].text.strip()
         print(response)
     except Exception as e:
         print(e)
